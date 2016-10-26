@@ -3,7 +3,7 @@
     <sys_properties action="INSERT_OR_UPDATE">
         <choices/>
         <description>What level of logging verbosity should this app use?</description>
-        <ignore_cache>false</ignore_cache>
+        <ignore_cache>true</ignore_cache>
         <is_private>false</is_private>
         <name>x_58056_k16.logging.verbosity</name>
         <read_roles/>
@@ -13,7 +13,7 @@
         <sys_created_on>2016-05-26 00:50:52</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>2f9a27264f231200ecf18c318110c7e4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_58056_k16.logging.verbosity</sys_name>
         <sys_package display_value="K16" source="x_58056_k16">92a6a3224f231200ecf18c318110c766</sys_package>
         <sys_policy/>
@@ -21,7 +21,7 @@
         <sys_scope display_value="K16">92a6a3224f231200ecf18c318110c766</sys_scope>
         <sys_update_name>sys_properties_2f9a27264f231200ecf18c318110c7e4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-26 00:50:52</sys_updated_on>
+        <sys_updated_on>2016-10-26 21:32:54</sys_updated_on>
         <type>string</type>
         <value>info</value>
         <write_roles/>
